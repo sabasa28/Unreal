@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Developers folder should be ignored
+Content/Developers/*
+
+# Wwise
+*/.cache/*
+*.akd
+*.validationcache
+*.wem
